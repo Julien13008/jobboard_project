@@ -1,0 +1,42 @@
+.rotate {
+    transform: rotate(90deg);
+}
+
+.form-input, .input-group-text{
+    border: none!important;
+    background-color: #f8f8f8!important;
+    border-radius: 30px!important;
+}
+
+#job-offer-container {
+    min-height: 90vh;
+}
+
+.editor-container, .ProseMirror {
+    min-height: 25vh;
+}
+
+.company-name {
+    font-size: xxx-large;
+    font-family: Istok;
+}
+
+.offer-dropdown{
+    width: 300px;
+    background-color: #f8f8f8!important;
+}
+
+.ProseMirror {
+    background-color: #f8f8f8!important;
+    border-radius: 30px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.form-title {
+    font-family: Istok;
+    font-size: x-large;
+}
+
+
+

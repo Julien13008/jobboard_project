@@ -1,0 +1,23 @@
+.message-content-wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+.message-content-wrapper {
+    height: 55%;
+}
+
+.people-message {
+    background-color: #6492C1;
+}
+
+.company-message {
+    background-color: #FCF0C9;
+}
+
+.people-message, .company-message {
+    border-radius: 15px;
+}
+
+.msg-content {
+    height: 50vh!important;
+}

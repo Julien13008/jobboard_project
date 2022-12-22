@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Gudea;
+    src: url('../assets/fonts/gudea/Gudea-Regular.ttf');
+}
+
+
+@font-face {
+    font-family: Istok;
+    src: url('../assets/fonts/istok/IstokWeb-Regular.ttf');
+}
+
+h1 {
+    font-family: 'Istok';
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Gudea';
+    font-size: 40px;
+}
+
+img {
+    width: 550px;
+    height: 540px;
+}
+
+
+

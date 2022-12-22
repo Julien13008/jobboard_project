@@ -1,0 +1,28 @@
+#job-card {
+    position: sticky;
+}
+
+.apply-btn {
+    background-color: #6492C1;
+    border-radius: 30px;
+    color: white;
+}
+
+.apply-btn:hover {
+    background-color: #F8D667!important;
+    color: black;
+}
+
+#job-card-content {
+    max-height: 28vh;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+#job-card-content::-webkit-scrollbar {
+    display: none;
+}
+
+
+
+

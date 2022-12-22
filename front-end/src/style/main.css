@@ -1,0 +1,123 @@
+@font-face {
+    font-family: Gudea;
+    src: url('../src/assets/fonts/gudea/Gudea-Regular.ttf');
+}
+
+@font-face {
+    font-family: Istok;
+    src: url('../src/assets/fonts/istok/IstokWeb-Regular.ttf');
+}
+
+body {
+    font-family: 'Gudea';
+}
+
+.card-title, #company {
+    font-family: 'Istok';
+}
+
+h1 {
+    font-family: 'Istok';
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Gudea';
+    font-size: 40px;
+}
+
+body {
+    background-color: #f8f8f8;
+}
+
+.border-effect {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 30px;
+    border : none;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+#company {
+    color: #ACA9A9;
+}
+
+#location, #contract-info, #salary {
+    line-height: 30%;
+    font-size: small;
+    color: #848383;
+}
+
+#time {
+    color: #d9d9d9!important;
+    font-size: smaller;
+}
+
+
+.blue-button {
+    background-color: #6492C1;
+    color: white;
+}
+
+.yellow-button {
+    background-color: #FCF0C9!important;
+    border: none;
+}
+
+.btn {
+    border-radius: 30px;
+}
+
+.toggle-user-button-true {
+    border: none;
+    border-radius: 30px 30px 0px 0px;
+    border-bottom: solid 5px #F8D667 ;
+    background-color: white;
+}
+
+.toggle-user-button-false:hover {
+    border: none;
+    border-radius: 30px 30px 0px 0px;
+    border-bottom: solid 5px #FCF0C9;
+    background-color: white;
+}
+
+.toggle-user-button-false {
+    border: none;
+    border-radius: 30px 30px 0px 0px;
+    border-bottom: solid 5px white;
+    background-color: white;
+}
+
+.big-icon {
+    font-size: xxx-large;
+}
+
+.text-error {
+    font-family: Istok;
+    font-size: xxx-large;
+}
+.form-select {
+    border-radius: 30px;
+    border: none;
+}
+
+.grey-select {
+    background-color: #f8f8f8!important;
+}
+
+.white-select {
+    background-color: white!important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+}
+

@@ -1,0 +1,31 @@
+.apply-content {
+    height: 90vh;
+}
+
+.apply-form-container {
+    height: 80%;
+}
+
+#ad-title {
+    font-size: large;
+}
+
+iframe {
+    overflow: hidden;
+    border: none;
+    height: 700px;
+}
+
+.form-input, .input-group-text{
+    border: none!important;
+    background-color: #f8f8f8!important;
+}
+
+.file-input {
+    display: none;
+}
+
+.input-group-text {
+    color: #848383;
+}
+

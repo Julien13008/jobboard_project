@@ -1,0 +1,31 @@
+#list::-webkit-scrollbar, .content-wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+#double-card-container, #list-container, #content {
+    height: 90vh;
+}
+
+#list-container {
+    height: 90vh;
+}
+
+#list, .content-wrapper, .content-wrapper{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+
+.content-wrapper {
+    height: 45%;
+}
+
+.list-item {
+    border-radius: 14px;
+    background-color: #FCF0C9;
+}
+
+.sub-list-item {
+    border-radius: 14px;
+    background-color: #6492C1;
+}

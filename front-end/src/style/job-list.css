@@ -1,0 +1,9 @@
+#job-container {
+    height: 68vh;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+#job-container::-webkit-scrollbar {
+    display: none;
+}

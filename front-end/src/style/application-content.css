@@ -1,0 +1,17 @@
+.date {
+    color: #ACA9A9;
+    font-size: smaller;
+}
+
+.icon-text-wrapper {
+    height: 50px;
+}
+
+#contract-info {
+    font-size: 10px!important;
+    line-height: 120%!important;
+}
+
+.send-btn {
+    background-color: #6492C1;
+}
